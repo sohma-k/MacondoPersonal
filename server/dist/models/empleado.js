@@ -21,7 +21,7 @@ const Empleado = conection_1.default.define('Empleado', {
     Emp_Email: {
         type: sequelize_1.DataTypes.STRING
     },
-    contrasena: {
+    Contrasena: {
         type: sequelize_1.DataTypes.STRING
     }
 }, {

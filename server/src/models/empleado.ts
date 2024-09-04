@@ -17,7 +17,7 @@ const Empleado = db.define('Empleado', {
     Emp_Email: {
         type: DataTypes.STRING
     },
-    contrasena: { 
+    Contrasena: { 
         type: DataTypes.STRING
     }
 }, {
